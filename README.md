@@ -1,1 +1,1 @@
-# minial-api
+# minimal-api
